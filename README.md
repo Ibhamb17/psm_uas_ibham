@@ -32,3 +32,11 @@ https://www.mermaidchart.com/app/projects/28ae5826-8691-4c45-b442-23402b7fbff5/d
 
 selain itu terdapat flowchart proses mempercepat audio pada video tersebut 
 ![mermaid-diagram-2023-06-15-002917](https://github.com/Ibhamb17/psm_uas_ibham/assets/78264829/5d2273ed-d284-4510-8720-04c09c482dbd)
+
+
+# Hasil
+# Video sebelum dipercepat
+[https://drive.google.com/drive/folders/1fJmTQM6f_LOgsarwYLRZO6fS4tlHkVOP](https://drive.google.com/file/d/1J14w1zZJyKEs8JjGnK2jklnC2wAnyc1P/view?usp=sharing)
+
+# Video setelah dipercepat
+https://drive.google.com/file/d/1asrJk25QxtwmX08LFEUtQZ_k5W9Qqg4p/view?usp=sharing 
