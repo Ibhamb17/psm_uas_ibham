@@ -29,3 +29,6 @@ https://www.mermaidchart.com/app/projects/28ae5826-8691-4c45-b442-23402b7fbff5/d
 pada flowcahrt tersebut terdapat proses mempercepat video dimana pada proses percepatan video flowchartnya sebagai berikut.
 https://www.mermaidchart.com/app/projects/28ae5826-8691-4c45-b442-23402b7fbff5/diagrams/d5e0e383-7496-4887-a5c1-dc618f0f8d4b/version/v0.1/edit
 ![mermaid-diagram-2023-06-15-000300](https://github.com/Ibhamb17/psm_uas_ibham/assets/78264829/6987754d-395b-4c8b-a625-7fdab53fdc57)
+
+selain itu terdapat flowchart proses mempercepat audio pada video tersebut 
+![mermaid-diagram-2023-06-15-002917](https://github.com/Ibhamb17/psm_uas_ibham/assets/78264829/5d2273ed-d284-4510-8720-04c09c482dbd)
