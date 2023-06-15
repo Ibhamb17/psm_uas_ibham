@@ -22,7 +22,10 @@ Libary yang digunakan pada pemrosesna in yaitu sebagai berikut.
 Terdapat 2 flowchart yang pertama flowhcart pemrosesan aplikasi dan Flowchart proses percepatan video
 
 # FLOWCHART Penggunaan aplikasi
+https://www.mermaidchart.com/app/projects/28ae5826-8691-4c45-b442-23402b7fbff5/diagrams/c8dc750f-de65-40d8-9a75-7f0e03fe3a41/version/v0.1/edit 
 ![mermaid-diagram-2023-06-14-231437](https://github.com/Ibhamb17/psm_uas_ibham/assets/78264829/9d272987-e4b9-4f69-898c-7cf150c8852b)
 
+
 pada flowcahrt tersebut terdapat proses mempercepat video dimana pada proses percepatan video flowchartnya sebagai berikut.
+https://www.mermaidchart.com/app/projects/28ae5826-8691-4c45-b442-23402b7fbff5/diagrams/d5e0e383-7496-4887-a5c1-dc618f0f8d4b/version/v0.1/edit
 ![mermaid-diagram-2023-06-15-000300](https://github.com/Ibhamb17/psm_uas_ibham/assets/78264829/6987754d-395b-4c8b-a625-7fdab53fdc57)
