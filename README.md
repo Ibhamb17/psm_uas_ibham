@@ -16,6 +16,8 @@ Libary yang digunakan pada pemrosesna in yaitu sebagai berikut.
 
 6. pydub: Library untuk manipulasi audio. Di kodingan ini digunakan untuk mempercepat audio dengan fungsi speedup() dan mengekspor audio hasil percepatan.
 
+# Googledrive Link
+https://drive.google.com/drive/folders/1fJmTQM6f_LOgsarwYLRZO6fS4tlHkVOP?usp=sharing
 
 # FLOWCHART 
 
