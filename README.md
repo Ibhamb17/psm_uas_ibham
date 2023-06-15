@@ -36,7 +36,7 @@ selain itu terdapat flowchart proses mempercepat audio pada video tersebut
 
 # Hasil
 # Video sebelum dipercepat
-[https://drive.google.com/drive/folders/1fJmTQM6f_LOgsarwYLRZO6fS4tlHkVOP](https://drive.google.com/file/d/1J14w1zZJyKEs8JjGnK2jklnC2wAnyc1P/view?usp=sharing)
+https://drive.google.com/file/d/1J14w1zZJyKEs8JjGnK2jklnC2wAnyc1P/view?usp=sharing
 
 # Video setelah dipercepat
 https://drive.google.com/file/d/1asrJk25QxtwmX08LFEUtQZ_k5W9Qqg4p/view?usp=sharing 
